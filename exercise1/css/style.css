@@ -1,0 +1,12 @@
+.container {
+  width: auto;
+  display: flex;
+  border: 5px black solid;
+  height: 50px;
+}
+
+.box {
+  flex: 1;
+  border:1px red solid;
+  height: 50px;
+}
